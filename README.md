@@ -1,9 +1,9 @@
 # Hi there 👋
 # Hi there 👋
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharatkumarpatil98-arch&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharatkumarpatil98-arch&show_icons=true&theme=tokyonight)](https://github.com/sharatkumapatil98-arch/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharatkumarpatil98-arch&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharatkumarpatil98-arch&layout=compact&theme=tokyonight)](https://github.com/sharatkumarpatil98-arch/github-readme-stats)7
 **sharatkumarpatil98-arch/sharatkumarpatil98-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
